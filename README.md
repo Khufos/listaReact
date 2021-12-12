@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![alt text](https://github.com/Khufos/listaReact/blob/main/Screenshot_3.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
